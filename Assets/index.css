@@ -1,0 +1,43 @@
+*::before *::after{
+    width: 100%;
+    padding: auto;
+}
+header .container {
+    background-image: url(./Images/moving\ 1.png);
+    background-size: cover;
+    width: 100%;
+    margin-left: 85px;
+    height: 100vh;
+}
+img {
+    width: 100%;
+}
+.links ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+}
+.btn {
+    background-color: yellow;
+    color: black !important;
+}
+.btn2 {
+    background-color: black;
+    color: yellow;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  } 
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
