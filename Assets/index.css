@@ -128,3 +128,25 @@ span {
 h2 {
     color: white;
 }
+.movers{
+    width: 100%;
+    background-color: black;
+    cursor: pointer;
+    height: 20vh;
+}
+.movers ul {
+    margin-left: 550px;
+}
+.movers h2 {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.movers h3 {
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
