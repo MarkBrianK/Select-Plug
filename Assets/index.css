@@ -2,6 +2,9 @@
     width: 100%;
     padding: auto;
 }
+img {
+    width: 100%;
+}
 header .container {
     background-image: url(./Images/moving\ 1.png);
     background-size: cover;
@@ -91,4 +94,13 @@ a{
     background-color: black;
     color: yellow;
     border-radius: 16px;
+}
+.iconarea {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.iconarea img {
+    width: 30px;
+    padding-bottom: 30PX;
 }
