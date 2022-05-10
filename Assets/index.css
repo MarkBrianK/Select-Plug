@@ -104,3 +104,27 @@ a{
     width: 30px;
     padding-bottom: 30PX;
 }
+.grid-container2 .img {
+    margin-right: 30px;
+}
+.p2 {
+    font-size: xx-large;
+    font-weight: 500;
+}
+.container3 {
+    background-color: black;
+    height: 50vh;
+}
+.container3 h1 {
+    color: white;
+}
+span {
+    color: darkgoldenrod;
+}
+.links img {
+    width: 30px;
+    margin-right: 50px;
+}
+h2 {
+    color: white;
+}
