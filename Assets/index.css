@@ -150,3 +150,11 @@ h2 {
     align-items: center;
     margin-top: 20px;
 }
+.grid-container4 {
+    display: grid;
+    grid-template-columns: auto auto;
+  }.grid-container5 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+  }
+  
