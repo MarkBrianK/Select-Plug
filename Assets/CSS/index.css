@@ -150,3 +150,22 @@ h2 {
     align-items: center;
     margin-top: 20px;
 }
+.grid-container4 {
+    display: grid;
+    grid-template-columns: auto auto;
+  }.grid-container5 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+  }
+  .grid-container6 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-right: 550px;
+  }
+  .grid-container6 img{
+      width: 20px;
+  }
+  .grid-container7 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
