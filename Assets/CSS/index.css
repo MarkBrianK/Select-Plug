@@ -169,3 +169,6 @@ h2 {
     display: grid;
     grid-template-columns: auto auto auto auto;
   }
+  .profile {
+      display: inline-block;
+  }
