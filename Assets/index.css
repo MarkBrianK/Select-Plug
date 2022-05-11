@@ -157,4 +157,12 @@ h2 {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto auto;
   }
+  .grid-container6 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-right: 550px;
+  }
+  .grid-container6 img{
+      width: 20px;
+  }
   
