@@ -165,4 +165,7 @@ h2 {
   .grid-container6 img{
       width: 20px;
   }
-  
+  .grid-container7 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
