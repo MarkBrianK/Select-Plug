@@ -6,7 +6,7 @@ img {
     width: 100%;
 }
 header .container {
-    background-image: url(./Images/moving\ 1.png);
+    background-image: url(/Assets/Images/moving\ 1.png);
     background-size: cover;
     width: 100%;
     margin-left: 85px;
